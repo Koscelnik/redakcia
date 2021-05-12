@@ -2,9 +2,9 @@ Autor: James May
 Nazov: ako nam skodia spalovacie motory
 Datum: 10.5.2021
 ----
-Vývojovému tímu automobilky Škoda Auto je jasné, že naplnenie dohôd o klimatických cieľoch je momentálne možné len pomocou elektromobility. 
-Christian Strube, člen predstavenstva automobilky Škoda Auto, však vidí potenciál stále aj v spaľovacích motoroch. Dokonca férovo priznal, že ich automobilka potrebuje. 
-Spaľovacie motory zarábajú, dobré však nie sú len kvôli peniazom.
+Emisie spaľovacích motorov obsahujú stovky chemických látok v rôznych koncentráciách, 
+ktorých biologické vlastnosti (účinky na zdravie človeka a účinky na životné prostredie) neboli doteraz jednoznačne určené. 
+Spaľovacie motory sú zodpovedné za viac než 70 % globálnej produkcie CO emisií a 19 % CO2.
 ----
 Automobilky momentálne zažívajú veľmi ťažké obdobie, ktoré spôsobila pandémia. Spomalenie trhu a zvýšená finančná obozretnosť zákazníkov spôsobili markantný prepad predaja nových vozidiel. Straty rátajú v miliardách, viaceré automobilky pritom uvažujú nad úplným odchodom z Európy. Očakávať tiež môžeme masívne škrty, zoštíhlenie ponuky modelov a čoskoro aj prepúšťanie.
 Výrobcovia s ohľadom na túto nepredvídateľnú situáciu žiadali Európsku úniu o dočasné pozastavenie prijímania ďalších emisných noriem, kvôli ktorým musia automobilky pod hrozbou pokút investovať do drahého vývoja ekologickejších motorov, čo v konečnom dôsledku predražuje autá pre koncových zákazníkov. Uvoľnenie emisných noriem by automobilkám pomohlo znížiť ceny nových modelov a prilákať ďalších zákazníkov. Zároveň by sa výrobcovia vyhli obrovským pokutám za nedodržanie prísnych regulácií.
