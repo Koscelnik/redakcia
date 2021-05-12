@@ -1,3 +1,8 @@
 Autor: James May
 Nazov: Spalovaci motor a jeho stopa na životnom prostredi
 Datum: 10.5.2021
+----
+Emisie spaľovacích motorov obsahujú stovky chemických látok v rôznych koncentráciách, 
+ktorých biologické vlastnosti (účinky na zdravie človeka a účinky na životné prostredie) neboli doteraz jednoznačne určené. 
+Spaľovacie motory sú zodpovedné za viac než 70 % globálnej produkcie CO emisií a 19 % CO2.
+----
