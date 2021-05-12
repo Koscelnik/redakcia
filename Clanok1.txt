@@ -6,3 +6,7 @@ Emisie spaľovacích motorov obsahujú stovky chemických látok v rôznych konc
 ktorých biologické vlastnosti (účinky na zdravie človeka a účinky na životné prostredie) neboli doteraz jednoznačne určené. 
 Spaľovacie motory sú zodpovedné za viac než 70 % globálnej produkcie CO emisií a 19 % CO2.
 ----
+Mimo produktov dokonalého spaľovania, tzn. CO2, H2O, prebytku kyslíka, zvyškového dusíka, ktoré tvoria dominantné zastúpenie, sa vyskytuje celé množstvo plynov a pevných látok, z ktorých najväčšia pozornosť sa venuje oxidu uhoľnatému – CO, nespáleným uhľovodíkom – HC (parafíny, olefíny, 
+aromatické uhľovodíky), čiastočne spáleným uhľovodíkom (aldehydy, ketóny), produktom štiepenia (acetylén, etylén, vodík, sadze), oxidu dusíka – NOX, (oxid dusnatý, oxid dusný, oxid dusičitý) a pevným časticiam.
+Miera škodlivosti jednotlivých zložiek vo výfukových plynoch sa niekedy uvádza porovnaním so škodlivosťou oxidu uhoľnatého CO. Objektívne vyjadrenie jednotlivých úrovní škodlivosti je určiť ťažké. Za najzávažnejšie škodliviny výfukových plynov sú považované pevné (tuhé) častice.
+----
