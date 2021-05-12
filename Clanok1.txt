@@ -1,3 +1,3 @@
 Autor: James May
-Nazov: Spalovaci motor a jeho stopa na životnom prostredi
+Nazov: ako nam skodia spalovacie motory
 Datum: 10.5.2021
